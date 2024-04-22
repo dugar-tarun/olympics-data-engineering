@@ -1,0 +1,9 @@
+{
+	"name": "olympic-de-adf-01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6cdde49c-6e07-4162-9990-09a5b063e35d",
+		"tenantId": "f9cec4fe-1259-43c5-8f5a-766ac36197a7"
+	}
+}
